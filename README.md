@@ -82,5 +82,5 @@ Part of my Week 5 ML curriculum (decision trees, ensembles, evaluation metrics, 
 ## 👤 Author
 
 **Ayesha Iqball**
-BS Computer Science, NCBA&E, Lahore
+BS Computer Science Student, Lahore
 AI & Data Science Intern @ Arcana Info Pvt Ltd
